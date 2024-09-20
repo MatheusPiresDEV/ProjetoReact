@@ -1,7 +1,8 @@
-import { createRoot } from 'react-dom/client'
-import HelloWorld from './HelloWorld'
-import './index.css'
-
+import Home from "./pages/Home"
+import {createRoot} from 'react-dom/client'
 createRoot(document.getElementById('root')).render(
-  <HelloWorld/>
+  
+  <Home/>
+
 )
+  

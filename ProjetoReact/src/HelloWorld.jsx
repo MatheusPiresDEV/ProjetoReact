@@ -1,3 +1,3 @@
 export default function HelloWorld(){
-    return "Ola codigo React"
+    return "Codigo React"
 }
